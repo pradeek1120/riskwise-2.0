@@ -107,7 +107,7 @@ riskwise-2.0/
 ---
 
 ## 🎬 Demo Video
-[Watch 2-minute Demo](YOUR-YOUTUBE-LINK-HERE)
+[Watch 2-minute Demo](https://www.loom.com/share/7470bd0e64644397b5a9b5fc53231d7b)
 
 ---
 
